@@ -374,18 +374,3 @@ curl -X POST http://localhost:3000/api/orders \
    - Click **Deploy**.
 
 ---
-
-## 📹 Video Walkthrough Guidelines (2-5 Minutes)
-
-When recording your submission video, cover the following 3 areas:
-1. **Frontend Demo**:
-   - Browse catalog (`/`) showing all 3 devices.
-   - Navigate to `/products/iphone-17-pro` and showcase variant switching (storage & color changes updating price and images).
-   - Show available EMI plans matching reference layout (0% interest, 10.5% interest, cashback).
-   - Click "Proceed with selected plan", fill customer details in the modal, and submit.
-   - Show instant application confirmation with generated Order ID.
-2. **Backend Architecture**:
-   - Show Next.js Route Handlers (`src/app/api/products`, `src/app/api/products/[slug]`, `src/app/api/orders`).
-   - Highlight Zod validation and cross-entity relationship verification.
-3. **Database**:
-   - Show PostgreSQL tables (`Product`, `ProductVariant`, `EmiPlan`, `Order`) via Prisma Studio (`npx prisma studio`) or database GUI, demonstrating the newly created order record.
