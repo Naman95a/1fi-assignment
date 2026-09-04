@@ -6,8 +6,8 @@ A modern, production-grade full-stack web application showcasing smartphones wit
 
 ## 🌟 Live Demo & Video Submission
 
-- **Live Deployed Demo**: [https://1fi-assignment.vercel.app](https://1fi-assignment.vercel.app) *(or your Vercel deployment link)*
-- **Demo Video (2-5 minutes)**: [Google Drive / YouTube Link](https://drive.google.com/your-demo-video-link)
+- **Live Deployed Demo**: [INSERT_YOUR_VERCEL_LINK_HERE](#)
+- **Demo Video (2-5 minutes)**: [INSERT_YOUR_VIDEO_LINK_HERE](#)
   > *Note: Please ensure the video link access is set to **"Anyone with the link can view"**.*
 
 ---
